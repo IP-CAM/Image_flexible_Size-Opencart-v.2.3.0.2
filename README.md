@@ -1,4 +1,4 @@
-# FOC:Image flexible size ocmod
+# Image flexible size ocmod
 
 Ocmod with backward compatibility for getting more control at image cropping. Can be used to get image with it’s original size.
 
